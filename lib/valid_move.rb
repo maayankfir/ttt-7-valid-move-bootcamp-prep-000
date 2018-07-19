@@ -20,5 +20,5 @@ if valid_move? == true && position_taken? == false
   true
 else
   false
-  
+
 end
