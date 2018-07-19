@@ -16,9 +16,8 @@ def position_taken?(board, index)
   end
 end
 
-if valid_move? == true && position_taken? == false
+if valid_move? == "true" && position_taken? == "false"
   true
 else
   false
-
 end
